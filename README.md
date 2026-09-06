@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00F5FF,100:2C5364&height=200&section=header&text=AHMED%20ABO%20RASHED&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20%C2%B7%20Data%20Analytics&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="photos/profile.png" width="150" height="150" alt="Ahmed Abo Rashed"/>
+<img src="photos/profile.jpg" width="150" height="150" alt="Ahmed Abo Rashed"/>
 
 <br><br>
 
