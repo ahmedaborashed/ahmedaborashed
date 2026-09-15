@@ -272,21 +272,17 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedaborashed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaborashed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ahmedaborashed&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedaborashed&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<a href="https://github.com/ahmedaborashed">
+  <img
+    src="https://gh-readme-profile.vercel.app/api?username=ahmedaborashed&bg_color=30,070b16,17102d&title_color=f8fafc&text_color=cbd5e1&icon_color=22d3ee&border_color=263453&border_radius=18&hide_border=true&show=reviews,issues_closed,discussions_started,discussions_answered"
+    width="100%"
+    alt="Ahmed Abo Rashed GitHub Analytics"
+  />
+</a>
 
 </div>
 
 <br>
-
 
 ## 🧩 Explore More
 
