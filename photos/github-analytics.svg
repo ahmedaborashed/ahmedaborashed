@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-label="GitHub Analytics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#111936"/>
+      <stop offset="100%" stop-color="#17112d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .t{font-family:Inter,Segoe UI,Arial,sans-serif;fill:#e5e7eb}
+      .muted{font-family:Inter,Segoe UI,Arial,sans-serif;fill:#94a3b8}
+      .num{font-family:Inter,Segoe UI,Arial,sans-serif;fill:#fff;font-weight:800}
+      .box{fill:#0f172a;stroke:#26324f}
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="892" height="422" rx="24" fill="url(#bg)" stroke="#26324f" stroke-width="2"/>
+  <path d="M30 88 H870" stroke="url(#line)" stroke-width="2" opacity=".9" filter="url(#glow)"/>
+  <circle cx="45" cy="45" r="7" fill="#22d3ee"/>
+  <circle cx="68" cy="45" r="7" fill="#a78bfa"/>
+  <text x="92" y="54" class="t" font-size="27" font-weight="800">GitHub Analytics</text>
+  <text x="92" y="76" class="muted" font-size="13">ahmedaborashed • developer activity overview</text>
+
+  <g transform="translate(30 112)">
+    <rect class="box" width="198" height="104" rx="16"/>
+    <text x="18" y="30" class="muted" font-size="12">REPOSITORIES</text>
+    <text x="18" y="72" class="num" font-size="34" id="repos">—</text>
+    <text x="72" y="69" class="muted" font-size="12">public</text>
+  </g>
+  <g transform="translate(242 112)">
+    <rect class="box" width="198" height="104" rx="16"/>
+    <text x="18" y="30" class="muted" font-size="12">FOLLOWERS</text>
+    <text x="18" y="72" class="num" font-size="34">—</text>
+    <text x="72" y="69" class="muted" font-size="12">community</text>
+  </g>
+  <g transform="translate(454 112)">
+    <rect class="box" width="198" height="104" rx="16"/>
+    <text x="18" y="30" class="muted" font-size="12">FOLLOWING</text>
+    <text x="18" y="72" class="num" font-size="34">—</text>
+    <text x="72" y="69" class="muted" font-size="12">accounts</text>
+  </g>
+  <g transform="translate(666 112)">
+    <rect class="box" width="204" height="104" rx="16"/>
+    <text x="18" y="30" class="muted" font-size="12">PUBLIC STARS</text>
+    <text x="18" y="72" class="num" font-size="34">—</text>
+    <text x="72" y="69" class="muted" font-size="12">received</text>
+  </g>
+
+  <g transform="translate(30 238)">
+    <rect class="box" width="414" height="154" rx="16"/>
+    <text x="20" y="32" class="t" font-size="15" font-weight="700">Contribution Activity</text>
+    <text x="20" y="54" class="muted" font-size="11">Live GitHub profile data</text>
+    <path d="M22 120 C70 96 96 115 138 91 S214 108 252 73 S320 84 390 49" fill="none" stroke="url(#line)" stroke-width="4" filter="url(#glow)"/>
+    <path d="M22 121 C70 97 96 116 138 92 S214 109 252 74 S320 85 390 50 L390 128 L22 128 Z" fill="url(#line)" opacity=".08"/>
+    <circle cx="390" cy="50" r="5" fill="#a78bfa" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(458 238)">
+    <rect class="box" width="412" height="154" rx="16"/>
+    <text x="20" y="32" class="t" font-size="15" font-weight="700">Developer Snapshot</text>
+    <text x="20" y="62" class="muted" font-size="12">Code • Projects • Open Source</text>
+    <text x="20" y="94" class="t" font-size="12">⚡ Backend &amp; Web Security</text>
+    <text x="20" y="119" class="t" font-size="12">◈ Python • FastAPI • Flask</text>
+    <text x="20" y="144" class="t" font-size="12">◆ GitHub activity</text>
+  </g>
+
+  <text x="30" y="414" class="muted" font-size="10">Dynamic-data compatible card • refresh the SVG when profile statistics change</text>
+</svg>
