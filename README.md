@@ -272,11 +272,21 @@ flowchart TD
 
 <div align="center">
 
-<img src="photos/github-analytics.svg" width="100%" alt="GitHub Analytics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedaborashed&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaborashed&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ahmedaborashed&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedaborashed&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
 </div>
 
 <br>
+
 
 ## 🧩 Explore More
 
